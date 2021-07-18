@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=jlassiachraf&show_icons=true)
